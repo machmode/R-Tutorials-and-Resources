@@ -12,9 +12,12 @@ R Programming code snippets, tutorials and links
 
 * [R For Data Science](https://r4ds.had.co.nz/index.html) - Online book - Good online book on R porgramming in Data Science book
 * [Open Data Science](http://ohi-science.org/data-science-training/index.html) - Good online book for Data Science 
+https://www.amazon.com/dp/0387981403/ref=cm_sw_su_dp
+* [ggplot2](https://github.com/hadley/ggplot2-book) - ggplot2: Elegant Graphics for Data Analysis (Use R!), by Hadley Wickham
 
 ## Recommended Repos
-* [Hadley Wickham](https://github.com/hadley/ggplot2-book) - Elegant Graphics for Data Analysis (ggplot2) Book code repo 
+
+* [ggplot2](https://github.com/hadley/ggplot2-book) - ggplot2: Elegant Graphics for Data Analysis (Use R!) - source repo 
 
 
 
