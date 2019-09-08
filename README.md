@@ -8,14 +8,15 @@ R Programming code snippets, tutorials and links
 * [ZevRoss R-Graphics Tutorial](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/) - More detailed ggplot tutorials
 * [CompterWorld Ggplot2 Cheat Sheet](https://www.computerworld.com/article/2935394/my-ggplot2-cheat-sheet-search-by-task.html) - Computerworld ggplot2 tutorial
 
-
-
-
-
 ## Recommended Books
 
 * [R For Data Science](https://r4ds.had.co.nz/index.html) - Online book - Good online book on R porgramming in Data Science book
 * [Open Data Science](http://ohi-science.org/data-science-training/index.html) - Good online book for Data Science 
+
+## Recommended Repos
+* [Hadley Wickham](https://github.com/hadley/ggplot2-book) - Elegant Graphics for Data Analysis (ggplot2) Book code repo 
+
+
 
 
 
